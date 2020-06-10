@@ -19,6 +19,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "core-js": "^3.6.5",
     "regenerator-runtime": "^0.13.5",
     "webpack-dev-server": "^3.11.0"
